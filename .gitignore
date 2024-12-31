@@ -1,11 +1,6 @@
-*.ipynb
-<<<<<<< HEAD
 # Ignore Python virtual environment directories
 venv/
 .venv/
 env/
 .env/
 pyvenv.cfg
-
-=======
->>>>>>> 59accd2b22d676c89e32787443d13046b5f5176f
