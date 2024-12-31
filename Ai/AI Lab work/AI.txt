@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence. These tasks include learning from data, reasoning, problem-solving, understanding natural language, recognizing patterns, and making decisions. AI can be broadly categorized into two types:
+
+Narrow AI (Weak AI): This type of AI is designed to perform a specific task, such as speech recognition, image classification, or playing a game. Examples include virtual assistants like Siri and Alexa, recommendation algorithms used by Netflix and Amazon, and autonomous vehicles.
+
+General AI (Strong AI): This type of AI aims to possess the ability to understand, learn, and apply intelligence across a wide range of tasks, similar to human intelligence. General AI remains largely theoretical and has not yet been achieved.s
