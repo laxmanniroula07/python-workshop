@@ -1,0 +1,8 @@
+*.ipynb
+# Ignore Python virtual environment directories
+venv/
+.venv/
+env/
+.env/
+pyvenv.cfg
+
